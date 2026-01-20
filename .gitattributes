@@ -1,0 +1,2 @@
+datasets/Ummah/Ummah.txt filter=lfs diff=lfs merge=lfs -text
+results/**/categorized_documents.csv filter=lfs diff=lfs merge=lfs -text
